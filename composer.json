@@ -25,7 +25,7 @@
         "phpunit/php-text-template": ">=1.1.1"
     },
     "require-dev": {
-        "phpunit/phpunit": "4.1.*@dev"
+        "drobertduke/phpunit": "4.1.*@dev"
     },
     "suggest": {
         "ext-soap": "*"
